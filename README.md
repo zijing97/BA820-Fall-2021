@@ -9,12 +9,11 @@ This repo contains the materials for a course in unsupervised machine learning a
 This class still uses Questrom Tools for the following:
 
 - Assignment submission and exams
-- Q&A via the forums
 - Annoucements
-- Forums/Discussion Board
+- Forums/Discussion Board here on Github
 
 
-## Schedule [CLEANUP]
+## Schedule
 
 Each class session is as follows (Boston-local time):
 
@@ -35,7 +34,7 @@ The link below is available via your BU accounts.
 
 - BU-associated Google account
 - Google Cloud Account setup and any appropriate projects created (The syllabus has a code for $50 of GCP credits for this course)
-- A python coding environment where you are able to install packages.  This could be Colab or local coding.
+- A python coding environment where you are able to install packages.  This could be Colab or a local coding environment like VS Code.
 
 ## Setup
 
