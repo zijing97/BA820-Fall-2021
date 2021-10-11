@@ -11,6 +11,7 @@ This class will use QTools for:
 - Assignment submission and exams
 - Larger Annoucements
 - Gradebook
+- Examples of assignment submissions, team project references, and test formats.
 
 The majority of the resources will be found here in this repo, that will be constantly updated over the course of the semester.  
 
