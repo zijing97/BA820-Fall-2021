@@ -6,11 +6,16 @@
 
 This repo contains the materials for a course in unsupervised machine learning and text analytics with python.  Students should plan to close this repo and pull the most recent changes before each class meeting.
 
-This class still uses Questrom Tools for the following:
+This class will use QTools for:
 
 - Assignment submission and exams
-- Annoucements
-- Forums/Discussion Board here on Github
+- Larger Annoucements
+- Gradebook
+
+The majority of the resources will be found here in this repo, that will be constantly updated over the course of the semester.  
+
+> I will also be making use of the Discussions section on the Github Repo.  This will act as public discussions and forums for topics specific to this class. I have found that Q&A style forums have worked well in my past deliveries of the course, as it centers the conversations on specific topics.
+
 
 
 ## Schedule
