@@ -44,6 +44,8 @@ Below are links to resources that make plotting easier for all sorts of tasks, e
 
 ## Colab
 
+- [Custom Notebook Code Snippets](https://medium.com/@ankushchoubey/my-top-10-un-popular-google-collab-tips-53e7b57e3248)
+
 To restrict your search for Colab notebooks, use `type:application/vnd.google.colaboratory` as well as your search criteria.  For example:
 
 `type:application/vnd.google.colaboratory  PCA`
