@@ -1,3 +1,6 @@
 sandbox/
 .ipynb_checkpoints/
+lecture-notes/
 
+class-notes/01_arules_EXERCISE_CODE.ipynb
+.DS_Store
