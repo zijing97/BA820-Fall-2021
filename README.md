@@ -39,7 +39,7 @@ The link below is available via your BU accounts.
 ## Requirements
 
 - BU-associated Google account
-- Google Cloud Account setup and any appropriate projects created (The syllabus has a code for $50 of GCP credits for this course)
+- Google Cloud Account setup and any appropriate projects created (I have submitted the request to get our course added for a $50 GCP credit)
 - A python coding environment where you are able to install packages.  This could be Colab or a local coding environment like VS Code.
 
 ## Setup
