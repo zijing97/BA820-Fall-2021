@@ -2,7 +2,6 @@
 # pip install mlxtend
 
 # imports
-from collections import UserString
 import numpy as np
 import pandas as pd
 import seaborn as sns
