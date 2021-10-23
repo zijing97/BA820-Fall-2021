@@ -20,6 +20,6 @@ from sklearn.preprocessing import StandardScaler
 # from google.colab import auth
 # auth.authenticate_user()
 # SQL = "SELECT * from `questrom.datasets.mtcars`"
-# YOUR_BILLING_PROJECT = ""
+# YOUR_BILLING_PROJECT = "questrom"
 # cars = pd.read_gbq(SQL, YOUR_BILLING_PROJECT)
 

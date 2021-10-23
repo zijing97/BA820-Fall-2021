@@ -307,11 +307,11 @@ if (window.hljs) {
 <h2>Setup</h2>
 <p>The dataset for this exercise can be found in Big Query:</p>
 <ul>
-<li><code>questrom.datasets.hockey-players</code></li>
+<li><code>questrom.datasets.hockey-skaters</code></li>
 <li><code>questrom.datasets.hockey-teams</code></li>
 </ul>
 <p>Of course, you should refer to the class notes for the imports and tools that you will use in python.</p>
-<p>From the business problem, we read that the Bruins want <em>established</em> NHL players. Let’s remove any record from the <code>players</code> data set that did not play in at least 10 games and have 100 minutes played.</p>
+<p>From the business problem, we read that the Bruins want <em>established</em> NHL players (skaters). Let’s remove any record from the <code>skaters</code> data set that did not play in at least 10 games and have 100 minutes played.</p>
 <p>The columns you can use for this task are:</p>
 <ul>
 <li><code>gp</code> or games played</li>
@@ -320,7 +320,7 @@ if (window.hljs) {
 <p>That should remove a good number of rows, but keeps just the core players on any given team.</p>
 <p>A quick note on the data sets:</p>
 <ol style="list-style-type: decimal">
-<li><code>players</code> = these are players and their <em>aggregate</em> performance over the course of a season. For more on what the column names, refer to the source of the data here:</li>
+<li><code>skaters</code> = these are players and their <em>aggregate</em> performance over the course of a season. For more on what the column names, refer to the source of the data here:</li>
 </ol>
 <p><label for="tufte-mn-1" class="margin-toggle">⊕</label><input type="checkbox" id="tufte-mn-1" class="margin-toggle"><span class="marginnote"><span style="display: block;">For a reference on player stats and a mapping to the column definitions <a href="https://www.hockey-reference.com/leagues/NHL_2019_skaters.html" class="uri">https://www.hockey-reference.com/leagues/NHL_2019_skaters.html</a></span></span></p>
 <ol style="list-style-type: decimal">
@@ -334,7 +334,7 @@ if (window.hljs) {
 <ol style="list-style-type: decimal">
 <li>Exploratory Data Analysis of the <code>players</code> data set</li>
 <li>Data Cleaning and transformation of the data set</li>
-<li>Apply Hierarchical Clustering to determine player segmentation</li>
+<li>Apply Hierarchical Clustering to determine player/skater segmentation</li>
 <li>Profile the Clusters solution you generated</li>
 <li>Business Problem: Profile the construction of teams</li>
 </ol>
