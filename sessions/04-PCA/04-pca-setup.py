@@ -88,7 +88,7 @@ from matplotlib import cm
 
 
 ##############################################################################
-## Group Data Challenge
+## PRACTICE: Data Exercise
 ##############################################################################
 
 ## - Diamonds data challenge in breakout rooms
