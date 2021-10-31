@@ -95,7 +95,10 @@ with open("knc-3.pkl", "wb") as f:
 ################################ Pipeline - solves the problem above
 
 # the pipeline steps -- list of tuples with name and the bit we want to deploy, sequentially
-steps = [('imputer', SimpleImputer()), ('scaler', MinMaxScaler()), ('clf', KNeighborsClassifier(3, metric="euclidean"))]
+steps = [('imputer', SimpleImputer()), 
+         ('scaler', MinMaxScaler()), 
+         ('clf', KNeighborsClassifier(3, metric="euclidean"))]
+
 pipe = Pipeline(steps)
 
 # fit the pipeline
@@ -107,7 +110,7 @@ pipe_probs = pipe.predict_proba(X_test)
 pipe_score = pipe.score(X_test, preds)
 
 # save the pipe
-joblib.dump(pipe, "pipeline.pkl")
+joblib.dump(pipe, "pipeline.joblib")
 
 # ^^ Above lets us load the entire pipeline which includes data preprocessing and the model, 
 #    and apply the same exactly data pipeline for inference to new data!
