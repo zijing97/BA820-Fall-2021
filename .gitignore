@@ -5,3 +5,4 @@ sandbox/
 
 apps/labelstudio/data/label_studio.sqlite3
 .Rhistory
+*.pyc
