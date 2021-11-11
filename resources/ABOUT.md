@@ -37,6 +37,9 @@ Below are links to resources that make plotting easier for all sorts of tasks, e
 ## Git
 -[](https://www.datacamp.com/groups/shared_links/a67bd4dff53af4d5c056cf21a69fa1ebe41130f25be0694f49a36095873f35e2)
 
+## VS Code
+
+- [](https://realpython.com/advanced-visual-studio-code-python/)
 
 ## Regex
 -[](https://github.com/ziishaned/learn-regex)
