@@ -11,3 +11,7 @@ apps/streamlit-image-reco/data
 apps/streamlit-image-reco/rawdata
 
 
+apps/streamlit-image-reco/0-preprocess.py
+apps/streamlit-image-reco/1-model.py
+apps/streamlit-image-reco/app.py
+apps/streamlit-image-reco/README.md
