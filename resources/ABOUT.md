@@ -143,6 +143,7 @@ Below are some resources for association rules.
 - [Gensim Word2Vec tutorial](https://radimrehurek.com/gensim/auto_examples/tutorials/run_word2vec.html) 
 - [Word Embedding Intuition](https://towardsdatascience.com/word-embeddings-intuition-and-some-maths-to-understand-end-to-end-skip-gram-model-cab57760c745) 
 - [fastText vectors - many languages](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md#models) 
+- [Document Vectors paper](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
 
 
 ## Scikit Resources
